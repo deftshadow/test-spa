@@ -1,0 +1,14 @@
+.Post {
+    display: flex;
+    height: 20vh;
+    width: 80vw;
+    box-shadow: 1px 2px gray;
+    border: 1px solid gray;
+    border-radius: 5px;
+    margin: 5rem;
+}
+
+.PostPhoto {
+    height: 100%;
+    width: 50%;
+}
