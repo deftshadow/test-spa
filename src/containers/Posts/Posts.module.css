@@ -1,0 +1,10 @@
+@media (min-width: 600px) {
+  .Posts {
+    display: inline-block;
+    box-sizing: border-box;
+    column-count: 3;
+    width: 95vw;
+    margin-left: 2rem;
+    margin-right: 2rem;
+  }
+}
